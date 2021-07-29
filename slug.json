@@ -1,0 +1,100 @@
+{
+  "cardCount": 6,
+  "topCards": [
+    {
+      "cardType": "weatherForecast",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=weatherAlerts&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 115.0,
+      "secondaryNumber": 56.0,
+      "topMessage": "2",
+      "secondaryMessage": null,
+      "misc": null
+    },
+    {
+      "cardType": "weather",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=weatherAlerts&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 60.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "1",
+      "secondaryMessage": null,
+      "misc": null
+    },
+    {
+      "cardType": "weather",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=weatherAlerts&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 60.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "1",
+      "secondaryMessage": "Currently",
+      "misc": null
+    },
+    {
+      "cardType": "weatherPrecipitation",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=precipitation&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 0.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "No Rain",
+      "secondaryMessage": "in your area",
+      "misc": null
+    },
+    {
+      "cardType": "weatherPrecipitation",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=precipitation&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 5.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "Rain",
+      "secondaryMessage": "in 30 minutes",
+      "misc": null
+    },
+
+    {
+      "cardType": "covid",
+      "deepLinkUrl": "smartnews://openLink?url=https://coronavirus.smartnews.com/us/",
+      "topNumber": 31902.0,
+      "secondaryNumber": 0.0,
+      "topMessage": null,
+      "secondaryMessage": null,
+      "misc": null
+    },
+    {
+      "cardType": "vaccine",
+      "deepLinkUrl": "smartnews://openLink?url=https://coronavirus.smartnews.com/us/",
+      "topNumber": 56.1,
+      "secondaryNumber": 0.0,
+      "topMessage": null,
+      "secondaryMessage": null,
+      "misc": null
+    },
+    {
+      "cardType": "crime",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=crime&latitude=37.767749183427895&longitude=-122.4859620313379",
+      "topNumber": 18.0,
+      "secondaryNumber": 0.0,
+      "topMessage": null,
+      "secondaryMessage": null,
+      "misc": null
+    },
+    {
+      "cardType": "disasterAlert",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=weatherAlerts&latitude=38.288&longitude=-118.306",
+      "topNumber": 0.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "Wildfire",
+      "secondaryMessage": "In California",
+      "misc": {
+        "time": "8 hour ago"
+      }
+    },
+    {
+      "cardType": "disasterAlert",
+      "deepLinkUrl": "smartnews://openLocalWeatherMap?mapType=weatherAlerts&latitude=38.288&longitude=-118.306",
+      "topNumber": 0.0,
+      "secondaryNumber": 0.0,
+      "topMessage": "Hurricane",
+      "secondaryMessage": "Teresa",
+      "misc": {
+        "time": "1 hour ago"
+      }
+    }
+  ]
+}
